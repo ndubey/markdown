@@ -16,3 +16,4 @@ Use #
 Use more sharp (#) to make smaller
 
 
+Blog about this cheatsheet [link of the blog](https://nandandubey.wordpress.com/2017/01/07/markdown-cheatsheet-md)
