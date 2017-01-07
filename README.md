@@ -8,6 +8,11 @@ For a file in current directory you can just use [link.txt](link.txt)
 
 In both above cases you can link to outside world also and in directories also.
 
+# Header
+Use #
+##Smaller header
+###Even smaller
 
+Use more sharp (#) to make smaller
 
 
